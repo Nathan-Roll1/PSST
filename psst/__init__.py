@@ -99,6 +99,7 @@ def yield_metrics(r: dict):
 
 
 def generate(n: int, filter=None, m='default'):
+    global processor, ds_test, processor, model, whisper_model
     """
     Generates a transcription for a given audio file, with an optional filter applied.
     If the model is not set to 'whisper', it will use the default `model` to generate the transcription.
