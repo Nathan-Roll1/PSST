@@ -1,2 +1,2 @@
 # PSST
-Prosodic Speech Segmentation with Transformers t
+Prosodic Speech Segmentation with Transformers (Work in Progress)
