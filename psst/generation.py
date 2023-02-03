@@ -1,3 +1,5 @@
+from transformers import AutoProcessor, AutoModelForSpeechSeq2Seq
+
 def init_model_processor(gpu=False):
   processor = AutoProcessor.from_pretrained("NathanRoll/psst-medium-en")
   
