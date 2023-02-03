@@ -1,4 +1,4 @@
-def init_model_processor(AutoProcessor, AutoModelForSpeechSeq2Seq, gpu=False):
+def init_model_processor(AutoProcessor=None, AutoModelForSpeechSeq2Seq=None, gpu=False):
   processor = AutoProcessor.from_pretrained("NathanRoll/psst-medium-en")
   
   if gpu:
