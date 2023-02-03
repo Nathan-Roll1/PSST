@@ -1,4 +1,5 @@
-pip install transformers
+import subprocess
+subprocess.check_call([sys.executable, "-m", "pip", "install", transformers])
 
 from transformers import AutoProcessor, AutoModelForSpeechSeq2Seq
 
