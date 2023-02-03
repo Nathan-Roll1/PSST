@@ -185,3 +185,48 @@ def gen_results(ds, filter=None):
   # Calculate and return accuracy, precision, recall, and F1 score
   accuracy, precision, recall, f1 = yield_metrics(r)
   return accuracy, precision, recall, f1
+
+def init_model_processor(gpu=False):
+  """ Initializes the model and processor with the pre-trained weights.
+
+  Returns:
+    model (AutoModelForSpeechSeq2Seq): A model with the pre-trained weights.
+    processor (AutoProcessor): Processes audio data.
+  """
+  # Initialize the processor with the pre-trained weights
+  processor = AutoProcessor.from_pretrained("NathanRoll/psst-medium-en")
+  
+  if gpu:
+    # Initialize the model with the pre-trained weights and move it to the gpu
+    model = AutoModelForSpeechSeq2Seq.from_pretrained("NathanRoll/psst-medium-en").to("cuda:0")
+  else:
+    # Initialize the model with the pre-trained weights
+    model = AutoModelForSpeechSeq2Seq.from_pretrained("NathanRoll/psst-medium-en")
+
+  return model, processor
+
+def generate_transcription(audio, gpu=False):
+  """Generate a transcription from audio using a pre-trained model
+
+  Args:
+    audio: The audio to be transcribed
+    gpu: Whether to use GPU or not. Defaults to False.
+
+  Returns:
+    transcription: The transcribed text
+  """
+  # Preprocess audio and return tensors
+  inputs = processor(audio, return_tensors="pt", sampling_rate=16000)
+
+  # Assign inputs to GPU or CPU based on argument
+  if gpu:
+    input_features = inputs.input_features.cuda()
+  else:
+    input_features = inputs.input_features
+
+  # Generate transcribed ids
+  generated_ids = model.generate(inputs=input_features, max_length=250)
+
+  # Decode generated ids and replace special tokens
+  transcription = processor.batch_decode(
+      generated_ids, skip_special_tokens=True, output_word_offsets=True)[0].replace('!!!!!', '<|IU_Boundary|>')
