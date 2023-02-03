@@ -1,9 +1,4 @@
-import subprocess
-subprocess.check_call([sys.executable, "-m", "pip", "install", transformers])
-
-from transformers import AutoProcessor, AutoModelForSpeechSeq2Seq
-
-def init_model_processor(gpu=False):
+def init_model_processor(AutoProcessor, AutoModelForSpeechSeq2Seq, gpu=False):
   processor = AutoProcessor.from_pretrained("NathanRoll/psst-medium-en")
   
   if gpu:
