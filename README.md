@@ -1,5 +1,6 @@
 ## PSST! Prosodic Speech Segmentation With Transformers
-[[Colab example]](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb)
+[[Colab example]](https://github.com/Nathan-Roll1/PSST/blob/main/Transcription_Example.ipynb)
+
 PSST can be acessed throigh the transformers module:
 ```cli
 pip install transformers
