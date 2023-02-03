@@ -1,10 +1,4 @@
-import os
-
-import pkg_resources
-
-for r in pkg_resources.parse_requirements(
-    open(os.path.join(os.path.dirname(__file__), "PSST/requirements.txt"))
-)
+pip install transformers
 
 from transformers import AutoProcessor, AutoModelForSpeechSeq2Seq
 
