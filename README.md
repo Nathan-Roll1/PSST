@@ -1,7 +1,11 @@
 ## PSST! Prosodic Speech Segmentation With Transformers
 
 ### Getting Started
-Start by downloading the github module:
+PSST can be acessed throigh the transformers module:
+```cli
+pip install transformers
+```
+
 ```python
 from transformers import AutoProcessor, AutoModelForSpeechSeq2Seq
 
