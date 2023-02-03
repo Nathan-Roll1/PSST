@@ -1,3 +1,6 @@
+import subprocess
+subprocess.check_call([sys.executable, "-m", "pip", "install", transformers])
+
 def display_results(n):
   '''
   This function displays the audio file and the transcript of the generated model as well as the actual transcript of a given index "n" in a dataframe.
