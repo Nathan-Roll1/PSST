@@ -1,3 +1,11 @@
+import os
+
+import pkg_resources
+
+for r in pkg_resources.parse_requirements(
+    open(os.path.join(os.path.dirname(__file__), "PSST/requirements.txt"))
+)
+
 def display_results(n):
   '''
   This function displays the audio file and the transcript of the generated model as well as the actual transcript of a given index "n" in a dataframe.
