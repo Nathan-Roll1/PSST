@@ -1,5 +1,6 @@
 ## PSST! Prosodic Speech Segmentation With Transformers
 [[Colab example]](https://github.com/Nathan-Roll1/PSST/blob/main/Transcription_Example.ipynb)
+[[Paper]](https://arxiv.org/abs/2302.01984)
 
 PSST can be acessed throigh the transformers module:
 ```cli
