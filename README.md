@@ -2,7 +2,7 @@
 [[Colab example]](https://github.com/Nathan-Roll1/PSST/blob/main/Transcription_Example.ipynb)
 [[Paper]](https://arxiv.org/abs/2302.01984)
 
-PSST can be acessed throigh the transformers module:
+PSST can be acessed through the transformers module:
 ```cli
 pip install transformers
 ```
