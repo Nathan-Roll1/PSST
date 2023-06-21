@@ -65,7 +65,7 @@ Samples:
 
 SBCSAE04_7:34_7:45-sample.wav
 
-MODEL
+*MODEL*
 
 um
 
@@ -89,7 +89,7 @@ now
 
 
 
-ACTUAL
+*ACTUAL*
 
 um
 
@@ -117,7 +117,7 @@ now
 
 SBCSAE03_14:42_14:52-sample.wav
 
-MODEL
+*MODEL*
 
 I have a neat book
 
@@ -135,7 +135,7 @@ Of course
 
 
 
-ACTUAL
+*ACTUAL*
 
 I have a neat book
 
@@ -157,13 +157,13 @@ Of course
 
 SBCSAE03_8:13_8:14-sample.wav
 
-MODEL
+*MODEL*
 
 Um
 
 
 
-ACTUAL
+*ACTUAL*
 
 Um
 
@@ -173,7 +173,7 @@ Um
 
 SBCSAE04_18:15_18:20-sample.wav
 
-MODEL
+*MODEL*
 
 They should've learned that in the second grade
 
@@ -181,7 +181,7 @@ In the in the second grade I learned my times tables
 
 
 
-ACTUAL
+*ACTUAL*
 
 They should have learned that in the second grade
 
@@ -193,7 +193,7 @@ In the in the second grade I learned my times tables
 
 SBCSAE02_11:01_11:07-sample.wav
 
-MODEL
+*MODEL*
 
 Cause there are a_lot_of women out there
 
@@ -205,7 +205,7 @@ I'm just amazed
 
 
 
-ACTUAL
+*ACTUAL*
 
 don't believe in using condoms
 
@@ -219,7 +219,7 @@ I'm just amazed
 
 SBCSAE04_8:33_8:50-sample.wav
 
-MODEL
+*MODEL*
 
 I'm the only teacher who's not experienced
 
@@ -245,7 +245,7 @@ he's real good at it
 
 
 
-ACTUAL
+*ACTUAL*
 
 I'm the only teacher who's not experienced
 
@@ -275,7 +275,7 @@ he's real good at it
 
 SBCSAE01_10:29_10:37-sample.wav
 
-MODEL
+*MODEL*
 
 Especially
 
@@ -291,7 +291,7 @@ every time I can go out and trim my own horse's hooves
 
 
 
-ACTUAL
+*ACTUAL*
 
 Especially
 
@@ -313,7 +313,7 @@ and trim my own horse's hooves
 
 SBCSAE01_6:43_6:50-sample.wav
 
-MODEL
+*MODEL*
 
 you know
 
@@ -333,7 +333,7 @@ cause I never trust myself to do it
 
 
 
-ACTUAL
+*ACTUAL*
 
 you know
 
@@ -355,13 +355,13 @@ cause I'd never trust myself to do it
 
 SBCSAE03_0:28_0:31-sample.wav
 
-MODEL
+*MODEL*
 
 Well let's see
 
 
 
-ACTUAL
+*ACTUAL*
 
 Well let's see
 
@@ -371,7 +371,7 @@ Well let's see
 
 SBCSAE03_0:22_0:24-sample.wav
 
-MODEL
+*MODEL*
 
 I know
 
@@ -383,7 +383,7 @@ Mm
 
 
 
-ACTUAL
+*ACTUAL*
 
 I know
 
@@ -399,13 +399,13 @@ Mhm
 
 SBCSAE04_12:60_13:00-sample.wav
 
-MODEL
+*MODEL*
 
 Oh
 
 
 
-ACTUAL
+*ACTUAL*
 
 Oh
 
@@ -415,13 +415,13 @@ Oh
 
 SBCSAE03_21:02_21:04-sample.wav
 
-MODEL
+*MODEL*
 
 Oops
 
 
 
-ACTUAL
+*ACTUAL*
 
 Oops
 
@@ -431,7 +431,7 @@ Oops
 
 SBCSAE04_13:26_13:28-sample.wav
 
-MODEL
+*MODEL*
 
 and we all heard it
 
@@ -439,7 +439,7 @@ and we all
 
 
 
-ACTUAL
+*ACTUAL*
 
 And we all heard it
 
@@ -451,7 +451,7 @@ and we all
 
 SBCSAE03_19:45_19:50-sample.wav
 
-MODEL
+*MODEL*
 
 Presplit
 
@@ -467,7 +467,7 @@ there might be mold
 
 
 
-ACTUAL
+*ACTUAL*
 
 Presplit
 
@@ -487,7 +487,7 @@ there might be mold
 
 SBCSAE03_2:18_2:23-sample.wav
 
-MODEL
+*MODEL*
 
 cause Nancy's in the column
 
@@ -501,7 +501,7 @@ X
 
 
 
-ACTUAL
+*ACTUAL*
 
 cause Pete's using the colander
 
@@ -519,13 +519,13 @@ xxx
 
 SBCSAE02_15:43_15:44-sample.wav
 
-MODEL
+*MODEL*
 
 and I'm just going
 
 
 
-ACTUAL
+*ACTUAL*
 
 Are they going
 
@@ -535,13 +535,13 @@ Are they going
 
 SBCSAE03_21:01_21:01-sample.wav
 
-MODEL
+*MODEL*
 
 beans
 
 
 
-ACTUAL
+*ACTUAL*
 
 beans
 
@@ -551,7 +551,7 @@ beans
 
 SBCSAE01_20:38_20:41-sample.wav
 
-MODEL
+*MODEL*
 
 I didn't even know she was pregnant
 
@@ -559,7 +559,7 @@ three months ago
 
 
 
-ACTUAL
+*ACTUAL*
 
 I didn't even know she was pregnant
 
@@ -571,7 +571,7 @@ three months ago
 
 SBCSAE03_14:24_14:30-sample.wav
 
-MODEL
+*MODEL*
 
 Nepal
 
@@ -585,7 +585,7 @@ November
 
 
 
-ACTUAL
+*ACTUAL*
 
 Nepal
 
@@ -603,7 +603,7 @@ November
 
 SBCSAE02_14:01_14:10-sample.wav
 
-MODEL
+*MODEL*
 
 cause I burned em for the past three months
 
@@ -627,7 +627,7 @@ Mhm
 
 
 
-ACTUAL
+*ACTUAL*
 
 cause I've heard em for the past three months
 
@@ -651,7 +651,7 @@ Mhm
 
 SBCSAE04_8:15_8:16-sample.wav
 
-MODEL
+*MODEL*
 
 uh
 
@@ -659,7 +659,7 @@ uh
 
 
 
-ACTUAL
+*ACTUAL*
 
 uh
 
@@ -671,7 +671,7 @@ uh
 
 SBCSAE04_9:28_9:30-sample.wav
 
-MODEL
+*MODEL*
 
 technicality that they have to meet
 
@@ -679,7 +679,7 @@ Yeah
 
 
 
-ACTUAL
+*ACTUAL*
 
 technicality that they have to meet
 
@@ -691,7 +691,7 @@ Yeah
 
 SBCSAE04_19:09_19:14-sample.wav
 
-MODEL
+*MODEL*
 
 We just
 
@@ -707,7 +707,7 @@ the first granola woman I ever met
 
 
 
-ACTUAL
+*ACTUAL*
 
 We just
 
@@ -727,7 +727,7 @@ the first granola woman I ever met
 
 SBCSAE03_7:26_7:28-sample.wav
 
-MODEL
+*MODEL*
 
 You know
 
@@ -737,7 +737,7 @@ when they're up there
 
 
 
-ACTUAL
+*ACTUAL*
 
 You know
 
@@ -751,7 +751,7 @@ when they're up there
 
 SBCSAE04_15:56_15:58-sample.wav
 
-MODEL
+*MODEL*
 
 I have
 
@@ -759,7 +759,7 @@ five thirdgraders
 
 
 
-ACTUAL
+*ACTUAL*
 
 five thirdgraders
 
@@ -769,7 +769,7 @@ five thirdgraders
 
 SBCSAE01_15:50_15:52-sample.wav
 
-MODEL
+*MODEL*
 
 Whatever they do wrong
 
@@ -777,7 +777,7 @@ we do get mad at em
 
 
 
-ACTUAL
+*ACTUAL*
 
 whatever they do wrong
 
@@ -789,7 +789,7 @@ we do get mad at em
 
 SBCSAE01_18:48_18:49-sample.wav
 
-MODEL
+*MODEL*
 
 look
 
@@ -797,7 +797,7 @@ right here
 
 
 
-ACTUAL
+*ACTUAL*
 
 Look
 
@@ -809,7 +809,7 @@ Right here
 
 SBCSAE03_14:01_14:02-sample.wav
 
-MODEL
+*MODEL*
 
 Right
 
@@ -817,7 +817,7 @@ They're out of there
 
 
 
-ACTUAL
+*ACTUAL*
 
 Right
 
@@ -829,7 +829,7 @@ They're out of there
 
 SBCSAE03_7:33_7:42-sample.wav
 
-MODEL
+*MODEL*
 
 Isn't that great
 
@@ -841,7 +841,7 @@ But no salmon in your stockings this year hunh
 
 
 
-ACTUAL
+*ACTUAL*
 
 Isn't that great
 
@@ -859,7 +859,7 @@ Hunh
 
 SBCSAE04_15:22_15:29-sample.wav
 
-MODEL
+*MODEL*
 
 well
 
@@ -879,7 +879,7 @@ with one of the smarter fourthgraders
 
 
 
-ACTUAL
+*ACTUAL*
 
 well
 
@@ -903,7 +903,7 @@ with one of the smarter fourthgraders
 
 SBCSAE04_7:57_7:58-sample.wav
 
-MODEL
+*MODEL*
 
 that
 
@@ -911,7 +911,7 @@ you know
 
 
 
-ACTUAL
+*ACTUAL*
 
 that
 
@@ -923,7 +923,7 @@ you know
 
 SBCSAE04_12:55_12:58-sample.wav
 
-MODEL
+*MODEL*
 
 and you practice
 
@@ -933,7 +933,7 @@ man
 
 
 
-ACTUAL
+*ACTUAL*
 
 And you practice
 
@@ -947,7 +947,7 @@ man
 
 SBCSAE04_1:35_1:39-sample.wav
 
-MODEL
+*MODEL*
 
 yo estoy vayando poner
 
@@ -957,7 +957,7 @@ E
 
 
 
-ACTUAL
+*ACTUAL*
 
 yo estoy vayando poner
 
@@ -971,7 +971,7 @@ E
 
 SBCSAE01_23:22_23:28-sample.wav
 
-MODEL
+*MODEL*
 
 Mhm
 
@@ -983,7 +983,7 @@ it was just hard
 
 
 
-ACTUAL
+*ACTUAL*
 
 Mhm
 
@@ -1001,13 +1001,13 @@ the muscle was just hard
 
 SBCSAE03_17:56_17:57-sample.wav
 
-MODEL
+*MODEL*
 
 and showers
 
 
 
-ACTUAL
+*ACTUAL*
 
 and showers
 
@@ -1017,13 +1017,13 @@ and showers
 
 SBCSAE02_15:43_15:44-sample.wav
 
-MODEL
+*MODEL*
 
 and I'm just going
 
 
 
-ACTUAL
+*ACTUAL*
 
 Are they going
 
@@ -1033,7 +1033,7 @@ Are they going
 
 SBCSAE02_0:38_0:40-sample.wav
 
-MODEL
+*MODEL*
 
 Probably
 
@@ -1043,7 +1043,7 @@ Talk about how Gregory Hiney said
 
 
 
-ACTUAL
+*ACTUAL*
 
 probably
 
@@ -1057,7 +1057,7 @@ talking about how Gregory Hines said
 
 SBCSAE01_2:58_3:11-sample.wav
 
-MODEL
+*MODEL*
 
 well you can trim em too short
 
@@ -1081,7 +1081,7 @@ You can really make a horse really bad
 
 
 
-ACTUAL
+*ACTUAL*
 
 Well you can trim em too short
 
@@ -1111,13 +1111,13 @@ You can really make a horse really bad
 
 SBCSAE03_21:38_21:41-sample.wav
 
-MODEL
+*MODEL*
 
 So should I just finish it all off
 
 
 
-ACTUAL
+*ACTUAL*
 
 So should I just finish it all off
 
@@ -1127,7 +1127,7 @@ So should I just finish it all off
 
 SBCSAE03_22:27_22:28-sample.wav
 
-MODEL
+*MODEL*
 
 and watch us pull in
 
@@ -1135,7 +1135,7 @@ and she goes like this
 
 
 
-ACTUAL
+*ACTUAL*
 
 and watch us pull in
 
@@ -1147,7 +1147,7 @@ and she goes like this
 
 SBCSAE03_16:57_17:13-sample.wav
 
-MODEL
+*MODEL*
 
 That looks like enough salad
 
@@ -1173,7 +1173,7 @@ That looks good
 
 
 
-ACTUAL
+*ACTUAL*
 
 That looks like enough salad
 
@@ -1203,7 +1203,7 @@ that's good
 
 SBCSAE03_8:55_9:05-sample.wav
 
-MODEL
+*MODEL*
 
 Yeah
 
@@ -1219,7 +1219,7 @@ This is it
 
 
 
-ACTUAL
+*ACTUAL*
 
 Yeah
 
@@ -1239,7 +1239,7 @@ This is it
 
 SBCSAE01_19:49_20:00-sample.wav
 
-MODEL
+*MODEL*
 
 Next thing you knew it was just overcast
 
@@ -1263,7 +1263,7 @@ the
 
 
 
-ACTUAL
+*ACTUAL*
 
 next thing you knew
 
@@ -1293,7 +1293,7 @@ that
 
 SBCSAE02_16:53_16:55-sample.wav
 
-MODEL
+*MODEL*
 
 Do they still teach at Bahia on Sunday
 
@@ -1301,7 +1301,7 @@ Oh yeah
 
 
 
-ACTUAL
+*ACTUAL*
 
 Do they still teach at Bahia on Sunday
 
@@ -1315,7 +1315,7 @@ Oh yeah
 
 SBCSAE03_1:27_1:29-sample.wav
 
-MODEL
+*MODEL*
 
 Cause
 
@@ -1327,7 +1327,7 @@ if you don't cook it
 
 
 
-ACTUAL
+*ACTUAL*
 
 Cause
 
@@ -1343,7 +1343,7 @@ if you don't cook it
 
 SBCSAE02_7:34_7:36-sample.wav
 
-MODEL
+*MODEL*
 
 oh
 
@@ -1351,7 +1351,7 @@ the Brazilian troop that was here
 
 
 
-ACTUAL
+*ACTUAL*
 
 oh the Brazilian troop that was here
 
@@ -1361,7 +1361,7 @@ oh the Brazilian troop that was here
 
 SBCSAE03_3:31_3:38-sample.wav
 
-MODEL
+*MODEL*
 
 um
 
@@ -1379,7 +1379,7 @@ garlic bread or something
 
 
 
-ACTUAL
+*ACTUAL*
 
 um
 
@@ -1401,7 +1401,7 @@ garlic bread or something
 
 SBCSAE01_2:26_2:35-sample.wav
 
-MODEL
+*MODEL*
 
 and
 
@@ -1425,7 +1425,7 @@ and a horse has this little white line
 
 
 
-ACTUAL
+*ACTUAL*
 
 and
 
@@ -1455,7 +1455,7 @@ and a horse has this little white line
 
 SBCSAE01_0:48_0:54-sample.wav
 
-MODEL
+*MODEL*
 
 I don't know how to say it
 
@@ -1473,7 +1473,7 @@ all the time
 
 
 
-ACTUAL
+*ACTUAL*
 
 I don't know how to say it
 
@@ -1491,7 +1491,7 @@ all the time
 
 SBCSAE02_11:47_11:51-sample.wav
 
-MODEL
+*MODEL*
 
 You know
 
@@ -1503,7 +1503,7 @@ Cause in this city
 
 
 
-ACTUAL
+*ACTUAL*
 
 you know
 
