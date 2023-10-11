@@ -2,6 +2,8 @@
 [[Colab example]](https://github.com/Nathan-Roll1/PSST/blob/main/Transcription_Example.ipynb)
 [[Paper]](https://arxiv.org/abs/2302.01984)
 
+Text-to-speech integrated with intonation unit ~ intonational phrase ~ prosodic unit boundary detection. Boundaries are transcribed with the '!!!!!' token. Finetuned from Whisper (medium).
+
 PSST can be acessed through the transformers module:
 ```cli
 pip install transformers
