@@ -1,6 +1,6 @@
 ## PSST! Prosodic Speech Segmentation With Transformers
 [[Paper]](https://arxiv.org/abs/2302.01984)
-[![Open Example In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nathan-Roll1/PSST/blob/main/Transcription_Example.ipynb]
+[[Open Example In Colab](https://colab.research.google.com/github/Nathan-Roll1/PSST/blob/main/Transcription_Example.ipynb)]
 
 Text-to-speech integrated with intonation unit ~ intonational phrase ~ prosodic unit boundary detection. Boundaries are transcribed with the '!!!!!' token. Finetuned from Whisper (medium).
 
