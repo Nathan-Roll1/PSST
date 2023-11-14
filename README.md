@@ -42,7 +42,7 @@ def generate_transcription(audio, model, processor, gpu=False):
 
     generated_ids = model.generate(input_features, max_length=250)
 
-    return processor.batch_decode(generated_ids, skip_special_tokens=True)[0].replace('!!!!!', '')
+    return processor.batch_decode(generated_ids, skip_special_tokens=True)[0].replace('!!!!!', '|')
 ```
 
 Next, use `librosa` to load and resample the audio file.
