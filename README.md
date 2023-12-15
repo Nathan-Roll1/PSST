@@ -1,5 +1,5 @@
 ## PSST! Prosodic Speech Segmentation With Transformers
-[[Paper]](https://arxiv.org/abs/2302.01984)
+[[Paper]](https://aclanthology.org/2023.conll-1.31/)
 [[Colab Tutorial]](https://colab.research.google.com/github/Nathan-Roll1/PSST/blob/main/Transcription_Example.ipynb)
 
 New: [[*Quantized* Tutorial]](https://colab.research.google.com/github/Nathan-Roll1/PSST/blob/main/Tutorials/PSST_Q_Inference.ipynb)
@@ -68,10 +68,20 @@ Four score and seven years ago <|IU_Boundary|> our fathers brought forth on this
 
 You may cite this work as: 
 ```
-@inproceedings{roll2023psst,
-  title={PSST! Prosodic Speech Segmentation with Transformers},
-  author={Roll, Nathan and Graham, Calbert and Todd, Simon},
-  journal={Proceedings of the 27th Conference on Computational Natural Language Learning (CoNLL)},
-  year={Forthcoming}
- }
+@inproceedings{roll-etal-2023-psst,
+    title = "{PSST}! Prosodic Speech Segmentation with Transformers",
+    author = "Roll, Nathan  and
+      Graham, Calbert  and
+      Todd, Simon",
+    editor = "Jiang, Jing  and
+      Reitter, David  and
+      Deng, Shumin",
+    booktitle = "Proceedings of the 27th Conference on Computational Natural Language Learning (CoNLL)",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.conll-1.31",
+    pages = "476--487",
+}
 ```
