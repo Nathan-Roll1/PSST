@@ -1,6 +1,6 @@
 ## PSST! Prosodic Speech Segmentation With Transformers
 [[Paper]](https://aclanthology.org/2023.conll-1.31/)
-[[Colab Tutorial]](https://colab.research.google.com/github/Nathan-Roll1/PSST/blob/main/Transcription_Example.ipynb)
+[[Colab Tutorial]](https://colab.research.google.com/github/Nathan-Roll1/PSST/blob/main/Tutorials/Transcription_Example.ipynb)
 
 New: [[*Quantized* Tutorial]](https://colab.research.google.com/github/Nathan-Roll1/PSST/blob/main/Tutorials/PSST_Q_Inference.ipynb)
 
